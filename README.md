@@ -7,3 +7,7 @@ Hey there I'm Bintang! I'm really passionate, about front end development and co
 I absolutely love creating websites that are user friendly. Since I'm relatively new to this field my main focus is on mastering the basics of HTML, CSS and JavaScript. My ultimate goal is to become a front end developer who stays updated with the industry trends and follows best practices. What really excites me is blending design with code to create experiences. Collaborating with developers and learning from their experiences is something I always look forward to.
 
 Lets connect if you're interested in working or just want to chat about our shared passion, for web development!
+
+### Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
